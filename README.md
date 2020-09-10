@@ -1,6 +1,8 @@
 # ComponentsInAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
+![Capture](https://user-images.githubusercontent.com/43896737/92754452-79b23980-f3a8-11ea-9212-aee10e0fb96f.PNG)
+
+## This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
 ## Development server
 
