@@ -1,0 +1,13 @@
+.header{
+  background: #52a3fd;
+  text-align: center;
+  padding: 5px 0;
+}
+.header-img {
+  width: 50%;
+  height: 200px;
+  background: url(/assets/img/angular.png);
+  background-size: cover;
+  margin-left: 200px;
+  margin-bottom: 40px;
+}
