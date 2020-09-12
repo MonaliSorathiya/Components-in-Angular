@@ -1,6 +1,6 @@
 # ComponentsInAngular
 
-![Capture](https://user-images.githubusercontent.com/43896737/92754452-79b23980-f3a8-11ea-9212-aee10e0fb96f.PNG)
+![Capture3](https://user-images.githubusercontent.com/43896737/92991442-6bc3fc00-f501-11ea-96c6-cea99f466971.PNG)
 
 ## This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
