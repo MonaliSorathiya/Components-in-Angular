@@ -1,4 +1,4 @@
-# ComponentsInAngular
+# Components in Angular
 
 ![Capture3](https://user-images.githubusercontent.com/43896737/92991442-6bc3fc00-f501-11ea-96c6-cea99f466971.PNG)
 
